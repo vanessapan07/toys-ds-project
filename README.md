@@ -1,2 +1,3 @@
 # toys-ds-project
-print(project creation date: 2/10)
+project creation date: 2/10
+author: vanessa
